@@ -1,5 +1,5 @@
 # Simple telegram bot
-This is a telegram bot that send you a btcusd chart <br />
+This is a simple telegram bot that send you a btcusd chart <br />
 Also using requests to parse data
 
 ## Installation

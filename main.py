@@ -38,10 +38,8 @@ def telegram_bot(token):
                 message.chat.id,
                 "Not an option"
             )
-
-
     bot.polling()
 
+
 if __name__ == "__main__":
-    # get_data()
     telegram_bot(secret_key.TOKEN_TELGRAM_BOT)
